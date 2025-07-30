@@ -1,0 +1,7 @@
+{
+  "name": "bioskop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
